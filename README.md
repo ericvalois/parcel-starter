@@ -1,17 +1,11 @@
-# Install #
-Via Yarn
-> yarn global add parcel-bundler
+## Installation ##
+> npm install
 
-> yarn init -y
+## Watch for changes ##
+> npm run dev
 
-> parcel index.html
-
-Via NPM
-> npm install -g parcel-bundler
-
-> npm init -y
-
-> parcel index.html
+## Build for production ##
+> npm run build
 
 ## FAQ ##
 Where do I add my SASS files?
