@@ -1,5 +1,5 @@
 {
-  "name": "worksample-ov",
+  "name": "worksample-sg",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
@@ -8,6 +8,6 @@
   },
   "devDependencies": {
     "node-sass": "^4.9.3",
-    "typescript": "^3.2.4"
+    "parcel-bundler": "^1.12.4"
   }
 }
