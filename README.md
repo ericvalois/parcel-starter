@@ -4,6 +4,8 @@
 ## Watch for changes ##
 > npm run dev
 
+Use http://localhost:1234/ in your browser.
+
 ## Build for production ##
 > npm run build
 
