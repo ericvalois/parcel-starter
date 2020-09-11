@@ -1,9 +1,8 @@
-import './sass/custom.scss';
-import './sass/utility.scss';
+import './sass/style.scss';
 
-const manageLikes = () => {
-    let likes = document.querySelector("[data-likes]");
-    likes.innerHTML = likes.dataset.likes;
+
+const helloWorld = () => {
+    console.log("Hello world");
 }
 
-manageLikes();
+helloWorld();
